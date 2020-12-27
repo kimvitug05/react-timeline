@@ -1,7 +1,8 @@
 .timeline-event {
   display: grid;
   grid-template: 2rem auto 2rem / 1fr 1fr;
-  padding: 0.5rem;
+  padding: 1rem;
+  margin: 0 1rem;
   border-bottom: 1px solid #E6ECF0;
   background-color: #FFF;
 }
